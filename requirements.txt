@@ -1,0 +1,6 @@
+faker==33.1.0
+vectara==0.2.35
+numpy==2.2.0rc1
+llama-index==0.12.5
+llama-index-agent-openai==0.4.0
+llama-index-llms-openai==0.3.3
